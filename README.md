@@ -1,16 +1,17 @@
-### Hi there 👋
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaxodnjs0876&layout=compact)
+  
+# Skills
+### Platforms 
+![Apple Badge](https://img.shields.io/badge/IOS-000000?&style=flat-square&logo=Apple&logoColor=white)
 
-<!--
-**rlaxodnjs0876/rlaxodnjs0876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Language
+  
+![Swift Badge](https://img.shields.io/badge/Swift-FA7343?&style=flat-square&logo=Swift&logoColor=white)
+![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-2D2E83?&style=flat-square&logo=Swift&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-00599C?&style=flat-square&logo=C&logoColor=white)
 
-Here are some ideas to get you started:
+### Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Xcode-147EFB?&style=flat-square&logo=Xcode&logoColor=white)
+![Swift Badge](https://img.shields.io/badge/VSCode-007ACC?&style=flat-square&logo=VisualStudioCode&logoColor=white)

@@ -9,7 +9,6 @@
   
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?&style=flat-square&logo=Swift&logoColor=white)
 ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-2D2E83?&style=flat-square&logo=Swift&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-00599C?&style=flat-square&logo=C&logoColor=white)
 
 ### Tools
 
